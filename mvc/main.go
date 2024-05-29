@@ -3,7 +3,7 @@ package main
 import(
 	"log"
 	"net/http"
-	"github.com/shogo-kurokawa-nm/play-ground/controller/mvc"
+	"github.com/shogo-kurokawa-nm/model/mvc/controller"
 )
 
 func main() {
