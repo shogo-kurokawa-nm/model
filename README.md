@@ -25,6 +25,7 @@ MVC(Model-View-Controller)
 
 Viewはhtmlになっている
 - userに画面を提供する責務(html=ブラウザに対する命令)
+
 Controllerによってtemplate作成
 - Modelから受け取った値をViewに渡す責務
 
